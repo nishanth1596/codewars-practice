@@ -82,7 +82,7 @@ function sumDigPow(a, b) {
   return result;
 }
 
-Testing;
+// Testing;
 console.log(sumDigPow(90, 100));
 console.log(sumDigPow(10, 100));
 console.log(sumDigPow(10, 150));
